@@ -1,4 +1,4 @@
-name: Create GitHub release
+name: Create GitHub release 1
 
 on:
   repository_dispatch:
